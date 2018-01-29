@@ -28,7 +28,7 @@ public static void main(String[] args) {
 		}
 		if(word.equals("ebuka1")){
 			JOptionPane.showMessageDialog(null, ebuka1);
-		}2
+		}
 		if(word.equals("ebuka2")){
 			JOptionPane.showMessageDialog(null, ebuka2);
 		}
