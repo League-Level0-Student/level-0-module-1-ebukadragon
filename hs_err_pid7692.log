@@ -1,0 +1,19 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (sharedRuntime.cpp:834), pid=7692, tid=0x0000000000001bd0
+#  fatal error: exception happened outside interpreter, nmethods and vtable stubs at pc 0x00000000025d5628
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_121-b13) (build 1.8.0_121-b13)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.121-b13 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000016481800):  JavaThread "AWT-EventQueue-0" [_thread_in_Java, id=7120, stack(0x00000000173a0000,0x00000000174a0000)]
+
+Stack: [0x00000000173a0000,0x00000000174a0000]
